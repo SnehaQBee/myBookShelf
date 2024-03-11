@@ -233,7 +233,8 @@ export default {
   background-image: url('../assets/img/hero.png');
   background-size: cover;
   background-position: center;
-  padding-top: 5rem;
+  height: auto;
+  padding-top: 10rem;
   text-align: center;
 }
 
